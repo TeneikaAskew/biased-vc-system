@@ -8,4 +8,4 @@ As the Project Lead and Data Science Fellow, Teneika conducted data analaysis, w
 The team placed in top 5 projects out of 200 in the program. <a href="https://public.tableau.com/app/profile/teneika.askew/viz/TheBiasedVCSystem/Recommendations-Tool">Link to Dashboard</a> You can also view the findings from this research in the <a href="https://github.com/TeneikaAskew/biased-vc-system/blob/main/Reports/Bias-in-VC-Final-Report.pdf">final report</a> and on the <a href="https://github.com/TeneikaAskew/biased-vc-system/blob/main/Reports/Bias-in-VC-Datafolio.pdf">datafolio</a>.
 <center><a href="https://public.tableau.com/app/profile/teneika.askew/viz/TheBiasedVCSystem/Recommendations-Tool"><img src="https://github.com/TeneikaAskew/biased-vc-system/blob/main/Reports/datafolioimage.jpg" alt="Bias VC Datafolio" style="height: 200px; width:400px" /></a></center>
 
-
+October 2020
